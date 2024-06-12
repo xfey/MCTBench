@@ -15,7 +15,32 @@ MTV comprises 5.3k text-rich images and 8.5k rigorously annotated question-answe
 
 <!-- ## Leaderboard -->
 
-## Data Download
+
+## Leaderboard
+
+| Model            | Params | Perception | Reasoning |Content-Creation  | Multiple-Choice | Cognition (R+C) | All |
+|------------------|--------|------------|-----------|-----------|-----------|-----------|-----------|
+| GPT-4V           | -      | 83.58      | 74.21     | 87.35     | 78.90     | 83.12     | 81.71     |
+| Mini-Gemini      | 34B    | 83.83      | 73.33     | 86.76     | 78.58     | 82.67     | 81.31     |
+| LLaVA-NeXT       | 34B    | 83.87      | 71.64     | 85.30     | 77.76     | 81.53     | 80.27     |
+| InternLM-XComposer2 | 7B  | 78.05      | 72.10     | 74.45     | 75.08     | 74.76     | 74.87     |
+| LLaVA-1.5        | 13B    | 78.09      | 72.56     | 66.47     | 75.33     | 70.90     | 72.37     |
+| Qwen-VL-chat     | 7B     | 77.98      | 70.68     | 67.53     | 74.33     | 70.93     | 72.06     |
+| Honeybee         | 7B     | 72.60      | 67.22     | 73.64     | 69.91     | 71.78     | 71.15     |
+| SPHINX-v2        | 13B    | 78.02      | 71.94     | 62.30     | 74.98     | 68.64     | 70.75     |
+| Monkey           | 7B     | 79.22      | 72.64     | 59.56     | 75.93     | 67.75     | 70.47     |
+| Sharegpt4V       | 13B    | 74.54      | 69.49     | 66.19     | 72.02     | 69.10     | 70.07     |
+| CogVLM           | 17B    | 71.40      | 69.52     | 65.61     | 70.46     | 68.04     | 68.84     |
+| mPLUG-DocOwl     | 10B    | 75.05      | 70.06     | 60.87     | 72.56     | 66.71     | 68.66     |
+| Gemini-Pro       | -      | 78.79      | 70.18     | 56.78     | 74.49     | 65.63     | 68.58     |
+| Deepseek-VL      | 7B     | 76.74      | 68.79     | 57.25     | 72.77     | 65.01     | 67.59     |
+| Yi-VL            | 6B     | 77.25      | 72.33     | 41.45     | 74.79     | 58.12     | 63.68     |
+| CogAgent         | 34B    | 58.56      | 56.46     | 56.86     | 57.51     | 57.19     | 57.29     |
+| TextMonkey       | 7B     | 71.80      | 69.45     | 22.81     | 70.63     | 46.72     | 54.69     |
+| Otter            | 7B     | 58.12      | 54.42     | 31.70     | 56.27     | 43.99     | 48.08     |
+
+
+## Download
 
 [RawData (Google Drive)](https://drive.google.com/drive/folders/12-klr5vjGBzwTd10YLKIpzw0X5elDPSG?usp=drive_link)
 
