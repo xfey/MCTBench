@@ -153,6 +153,21 @@
               "column": "answer"
             }
           }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "jsonl/choice",
+          "name": "choice",
+          "description": "choice",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "jsonl-files"
+            },
+            "extract": {
+              "column": "choice"
+            }
+          }
         }
       ]
     }
