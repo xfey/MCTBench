@@ -42,7 +42,7 @@ MTV comprises 5.3k text-rich images and 8.5k rigorously annotated question-answe
 
 ## Download
 
-[RawData (Google Drive)](https://drive.google.com/drive/folders/12-klr5vjGBzwTd10YLKIpzw0X5elDPSG?usp=drive_link)
+[RawData (Google Drive)](https://drive.google.com/file/d/1Wo_ErGeC8CFJlhEuz3jjqaRZ0rkKS7lQ/view?usp=sharing)
 
 <!-- 
 ## Direct Use
